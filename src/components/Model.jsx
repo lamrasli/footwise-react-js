@@ -3,7 +3,7 @@ const Model = () => {
     <div className="pb-20 ">
       <div className="flex items-center justify-center flex-wrap mb-5">
         <img
-          src={"/assets/shoes1.jfif"}
+          src={"/assets/shoes1.png"}
           alt="shoes model 1"
           className=" max-w-[350px] rounded-xl mb-5"
         />
