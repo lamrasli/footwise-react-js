@@ -58,18 +58,18 @@ const Contact = () => {
               type="text"
               name="name"
               placeholder="Your name"
-              className="rounded p-2 text-sm focus:outline-none w-[250px]"
+              className="rounded p-2 text-sm focus:outline-none w-[300px]"
             />
             <input
               type="email"
               name="email"
               placeholder="Your email address"
-              className="rounded p-2 text-sm focus:outline-none w-[250px]"
+              className="rounded p-2 text-sm focus:outline-none w-[300px]"
             />
             <textarea
               id="story"
               placeholder="Message"
-              className="rounded text-sm focus:outline-none p-2 w-[250px] h-[100px]"
+              className="rounded text-sm focus:outline-none p-2 w-[300px] h-[100px]"
             ></textarea>
           </div>
         </div>
