@@ -66,13 +66,7 @@ const Contact = () => {
               placeholder="Your email address"
               className="rounded p-2 text-sm focus:outline-none"
             />
-            <textarea
-              id="story"
-              rows="7"
-              cols="40"
-              placeholder="Message"
-              className="rounded text-sm focus:outline-none p-2"
-            ></textarea>
+
           </div>
         </div>
       </div>
