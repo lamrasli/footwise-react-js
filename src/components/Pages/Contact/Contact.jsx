@@ -68,8 +68,8 @@ const Contact = () => {
             />
             <textarea
               id="story"
-              rows="8"
-              cols="50"
+              rows="7"
+              cols="40"
               placeholder="Message"
               className="rounded text-sm focus:outline-none p-2"
             ></textarea>
