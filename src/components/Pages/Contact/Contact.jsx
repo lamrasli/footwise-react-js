@@ -53,18 +53,18 @@ const Contact = () => {
         </div>
         <div>
           <h1 className="text-3xl font-bold text-center">Contact Us</h1>
-          <div className="flex flex-col gap-4 mt-4 text-black">
+          <div className="flex flex-col items-center justify-center gap-4 mt-4 text-black">
             <input
               type="text"
               name="name"
               placeholder="Your name"
-              className="rounded p-2 text-sm focus:outline-none"
+              className="rounded p-2 text-sm focus:outline-none w-[250px]"
             />
             <input
               type="email"
               name="email"
               placeholder="Your email address"
-              className="rounded p-2 text-sm focus:outline-none"
+              className="rounded p-2 text-sm focus:outline-none w-[250px]"
             />
             <textarea
               id="story"
